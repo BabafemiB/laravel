@@ -14,7 +14,7 @@ variables:
   webAppName: 'babafemib'
 
   # Agent VM image name
-  vmImageName: 'ubuntu-latest'
+  vmImageName: 'windows-2022'
 
   # Environment name
   environmentName: 'babafemib'
